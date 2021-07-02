@@ -1,0 +1,1 @@
+WMIC USERACCOUNT WHERE Name='LibUser' SET PasswordExpires=FALSE
